@@ -43,12 +43,10 @@
     font-family: "Palatino Linotype", serif;
     font-size: 16px;
 }
-
-.left img {
-    max-width: 30%;
+.left img{
+    margin-left: 35px;
+    margin-top: 25px;
     transition: 1s;
-    border: 1px solid #021a40;
-    margin-left: 20px;
 }
 .left img:hover {
     filter: grayscale(100%);
